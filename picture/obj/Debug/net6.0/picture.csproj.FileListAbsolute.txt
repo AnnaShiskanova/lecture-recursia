@@ -1,0 +1,15 @@
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\bin\Debug\net6.0\picture.exe
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\bin\Debug\net6.0\picture.deps.json
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\bin\Debug\net6.0\picture.runtimeconfig.json
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\bin\Debug\net6.0\picture.dll
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\bin\Debug\net6.0\picture.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\picture.csproj.AssemblyReference.cache
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\picture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\picture.AssemblyInfoInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\picture.AssemblyInfo.cs
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\picture.csproj.CoreCompileInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\picture.dll
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\refint\picture.dll
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\picture.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\picture.genruntimeconfig.cache
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\picture\obj\Debug\net6.0\ref\picture.dll
