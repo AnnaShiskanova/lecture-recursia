@@ -1,0 +1,15 @@
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\bin\Debug\net6.0\recursia.exe
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\bin\Debug\net6.0\recursia.deps.json
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\bin\Debug\net6.0\recursia.runtimeconfig.json
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\bin\Debug\net6.0\recursia.dll
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\bin\Debug\net6.0\recursia.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\recursia.csproj.AssemblyReference.cache
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\recursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\recursia.AssemblyInfoInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\recursia.AssemblyInfo.cs
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\recursia.csproj.CoreCompileInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\recursia.dll
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\refint\recursia.dll
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\recursia.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\recursia.genruntimeconfig.cache
+C:\Users\shisk\OneDrive\Рабочий стол\lecture_Arras_Recursia\recursia\obj\Debug\net6.0\ref\recursia.dll
